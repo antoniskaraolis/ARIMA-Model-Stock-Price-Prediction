@@ -22,10 +22,7 @@ Alternative Forecasting Models: Experimenting with diverse forecasting models to
 Machine Learning Integration: Evaluating machine learning methodologies to potentially enhance prediction performance.
 Critical Review: Insightful feedback on the current work's limitations, and areas of potential development in the domain of predictive models for finance.
 Getting Started
-Clone this repository: git clone <repository_link>
-Navigate to the repository: cd <repository_name>
 Install the required Python libraries using: pip install -r requirements.txt
-Run the Python script: python <script_name>.py
 Review the report for a detailed analysis and findings.
 Contribute
 We welcome contributions! Please submit pull requests for any enhancements or bug fixes. Also, we encourage you to raise issues for any discrepancies or suggestions.
