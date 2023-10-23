@@ -17,6 +17,7 @@ Results
 Preliminary results indicate that, despite the inherent volatility of financial markets, the ARIMA model performs reasonably well in predicting stock values.
 
 Future Work
+
 Enhanced ARIMA (SARIMAX model): Incorporating more explanatory variables to improve prediction accuracy.
 Alternative Forecasting Models: Experimenting with diverse forecasting models to determine the most effective approach.
 Machine Learning Integration: Evaluating machine learning methodologies to potentially enhance prediction performance.
