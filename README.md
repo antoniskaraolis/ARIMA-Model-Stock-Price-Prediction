@@ -29,8 +29,7 @@ Preliminary results indicate that, despite the inherent volatility of financial 
 
 ## Getting Started
 
-1. Install the required Python libraries using: 
-
+1. Install the required Python libraries using: pip install -r requirements.txt
 
 2. Review the report for a detailed analysis and findings.
 
