@@ -27,12 +27,6 @@ Preliminary results indicate that, despite the inherent volatility of financial 
 
 - **Critical Review**: Insightful feedback on the current work's limitations, and areas of potential development in the domain of predictive models for finance.
 
-## Getting Started
-
-1. Install the required Python libraries using: pip install -r requirements.txt
-
-2. Review the report for a detailed analysis and findings.
-
 ## Contribute
 
 We welcome contributions! Please submit pull requests for any enhancements or bug fixes. Also, we encourage you to raise issues for any discrepancies or suggestions.
